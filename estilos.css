@@ -1,0 +1,133 @@
+.pintura {
+
+	background-color: #CD853F;
+	height: 650px;
+	width: 1250px;
+	position: relative;
+	left: 15px;
+}
+
+.monstro {
+
+	background-color:#32CD32;
+	height: 250px;
+	width: 	200px;
+	border-radius: 100px;
+	position: relative;
+	left: 15px;
+	position: absolute;
+	top:240px; 
+	left:500PX;
+}
+.antena1{
+	background-color:#32CD32;
+	height: 30px;
+	width: 	10px;
+	border-radius: 100px;
+	position: relative;
+	left: 15px;
+	position: absolute;
+	top:240px; 
+	left:530PX;
+
+}
+.antena2{
+	background-color:#32CD32;
+	height: 30px;
+	width: 	10px;
+	border-radius: 100px;
+	position: relative;
+	left: 15px;
+	position: absolute;
+	top:240px; 
+	left:658PX;
+
+}
+
+.olho {
+
+    background-color:#F5FFFA;
+	height: 100px;
+	width: 	150px;
+	border-radius: 100px;
+	position: relative;
+	left: 15px;
+	position: absolute;
+	top:25px; 
+	left:25PX;
+}
+.olho2{
+	background-color: #98FB98;
+	height: 60px;
+	width: 	60px;
+	border-radius: 100px;
+	position: relative;
+	left: 15px;
+	position: absolute;
+	top:45px; 
+	left:70PX;
+}
+.iris{
+	background-color: black;
+	height: 35px;
+	width: 	35px;
+	border-radius: 100px;
+	position: relative;
+	left: 15px;
+	position: absolute;
+	top:58px; 
+	left:83PX;
+
+}
+.bolinha{
+	background-color: #F5FFFA;
+	height: 5px;
+	width: 5px;
+	border-radius: 100px;
+	position: absolute;
+	top:65px; 
+	left:110px;
+
+}
+.boca{
+	background-color: black;
+	height: 50px;
+	width: 100px;
+	border-radius: 100px;
+	position: absolute;
+	top:150px; 
+	left:50px;
+
+
+}
+.dente{
+	background-color: #F5FFFA;
+	height: 10px;
+	width: 70px;
+	border-radius: 100px;
+	position: absolute;
+	top:150px; 
+	left:65px;
+
+
+}
+.dente2{
+	background-color: #F5FFFA;
+	height: 10px;
+	width: 70px;
+	border-radius: 100px;
+	position: absolute;
+	top:190px; 
+	left:65px;
+
+}
+.lingua{
+	background-color: #FF0000;
+	height: 10px;
+	width: 55px;
+	border-radius: 100px;
+	position: absolute;
+	top:180px; 
+	left:73px;
+
+}
